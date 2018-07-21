@@ -1,0 +1,19 @@
+#Thu Jul 19 19:19:05 EDT 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/34
+base.4=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/35
+base.3=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/36
+base.2=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/31
+base.1=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/32
+base.0=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/33
+file.5=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/34/classes.dex
+file.4=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/35/classes.dex
+file.3=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/36/classes.dex
+file.2=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/31/classes.dex
+file.1=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/32/classes.dex
+file.0=/Users/eSolutions/Downloads/Beacon/beacon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/33/classes.dex

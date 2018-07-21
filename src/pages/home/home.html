@@ -8,12 +8,11 @@
 </ion-header>
 
 <ion-content padding>
-  <!--<img style="width:100%; height: auto;" [src]="img.imageUrl" #img{{img.id}}  *ngFor="let img of images" (tap)="showImage($event)" />-->
   <button ion-item *ngFor="let img of images" (tap)="showImage(img)">
     <div class="imageHolder" item-start style="width:50px;height:50px;"><img id="{{ 'img' + img.id }}" style="max-height:50px;max-width:50px;" [src]="img.imageUrl" /></div>
     <h2>Name: {{img.name}}</h2>
     <p>ID: {{ img.id }}</p>
-    <ion-icon item-end name="arrow-round-forward"></ion-icon>
+    <ion-icon item-end name="arrow-round-forward" hideWhen="ios"></ion-icon>
   </button>
   <ion-infinite-scroll (ionInfinite)="doInfinite($event)">
       <ion-infinite-scroll-content></ion-infinite-scroll-content>
